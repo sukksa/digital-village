@@ -2,12 +2,12 @@ import {
   fileURLToPath,
   URL
 } from 'node:url'
-
+// ceshixiugai 
 import {
   defineConfig
 } from 'vite'
-import vue from '@vitejs/plugin-vue'
 import vueDevTools from 'vite-plugin-vue-devtools'
+import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [
