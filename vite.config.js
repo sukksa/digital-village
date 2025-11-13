@@ -2,7 +2,6 @@ import {
   fileURLToPath,
   URL
 } from 'node:url'
-// ceshixiugai 
 import {
   defineConfig
 } from 'vite'
