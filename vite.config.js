@@ -1,7 +1,9 @@
+// yes
 import {
   fileURLToPath,
   URL
 } from 'node:url'
+//change 2
 import {
   defineConfig
 } from 'vite'
